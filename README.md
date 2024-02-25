@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Negin Doostar</h1>
-<h3 align="center">MSc student in software engineering at Isfahan University of technology</h3>
+<h3 align="left">Master's student in software engineering at Isfahan University of Technology with a strong interest in AI (machine learning, deep learning, reinforcement learning), IoT, and algorithm design. Experienced in developing and applying deep reinforcement learning to optimize 5G resource allocation. Creative and passionate programmer with a proven ability to design and implement efficient and innovative algorithms.</h3>
 
 - 📫 How to reach me **nndoostar@gmail.com**
 
