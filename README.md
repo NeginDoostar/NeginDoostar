@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Negin Doostar</h1>
-<h3 align="left">Master's student in software engineering at Isfahan University of Technology with a strong interest in AI (machine learning, deep learning, reinforcement learning), IoT, and algorithm design. Experienced in developing and applying deep reinforcement learning to optimize 5G resource allocation. Creative and passionate programmer with a proven ability to design and implement efficient and innovative algorithms.</h3>
+<h3 align="left"I’m a software engineer with a Master’s degree from Isfahan University of Technology, specializing in intelligent systems and resource optimization in fog and edge computing environments. With hands-on experience in deep learning, computer vision, and IoT. I design solutions that are not only smart but resilient.
+
+My strengths lie in ensuring system reliability and solving tough algorithmic problems using mathematical optimization. I thrive on challenges that push boundaries and demand elegant, efficient results.
+
+Let’s connect if you’re passionate about turning complex systems into intelligent solutions.</h3>
 
 - 📫 How to reach me **nndoostar@gmail.com**
 
